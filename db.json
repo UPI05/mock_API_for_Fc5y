@@ -15,7 +15,7 @@
 							"contest_total_participations": 234,
 							"is_hidden": false,
 							"rating": 1306,
-							"rating_change": -56,
+							"rating_change": "-56",
 							"score": 545,
 							"rank_in_contest": 49
 						},
@@ -26,7 +26,7 @@
 							"contest_total_participations": 234,
 							"is_hidden": false,
 							"rating": 1306,
-							"rating_change": +56,
+							"rating_change": "-56",
 							"score": 545,
 							"rank_in_contest": 49
 						},
@@ -37,7 +37,7 @@
 							"contest_total_participations": 234,
 							"is_hidden": false,
 							"rating": 1306,
-							"rating_change": -56,
+							"rating_change": "+56",
 							"score": 545,
 							"rank_in_contest": 49
 						},
@@ -48,7 +48,7 @@
 							"contest_total_participations": 234,
 							"is_hidden": false,
 							"rating": 1306,
-							"rating_change": -56,
+							"rating_change": "-56+,
 							"score": 545,
 							"rank_in_contest": 49
 						},
@@ -59,7 +59,7 @@
 							"contest_total_participations": 234,
 							"is_hidden": false,
 							"rating": 1306,
-							"rating_change": -56,
+							"rating_change": "-56",
 							"score": 545,
 							"rank_in_contest": 49
 						},
@@ -70,7 +70,7 @@
 							"contest_total_participations": 234,
 							"is_hidden": false,
 							"rating": 1306,
-							"rating_change": +56,
+							"rating_change": "+56",
 							"score": 545,
 							"rank_in_contest": 49
 						},
@@ -81,7 +81,7 @@
 							"contest_total_participations": 234,
 							"is_hidden": false,
 							"rating": 1306,
-							"rating_change": -56,
+							"rating_change": "-56",
 							"score": 545,
 							"rank_in_contest": 49
 						},
@@ -92,7 +92,7 @@
 							"contest_total_participations": 234,
 							"is_hidden": false,
 							"rating": 1306,
-							"rating_change": +56,
+							"rating_change": "+56",
 							"score": 545,
 							"rank_in_contest": 49
 						},
@@ -103,7 +103,7 @@
 							"contest_total_participations": 234,
 							"is_hidden": false,
 							"rating": 1306,
-							"rating_change": -56,
+							"rating_change": "-56",
 							"score": 545,
 							"rank_in_contest": 49
 						},
@@ -114,7 +114,7 @@
 							"contest_total_participations": 234,
 							"is_hidden": false,
 							"rating": 1306,
-							"rating_change": +56,
+							"rating_change": "+56",
 							"score": 545,
 							"rank_in_contest": 49
 						},
@@ -125,7 +125,7 @@
 							"contest_total_participations": 234,
 							"is_hidden": false,
 							"rating": 1306,
-							"rating_change": -56,
+							"rating_change": "-56",
 							"score": 545,
 							"rank_in_contest": 49
 						},
@@ -136,7 +136,7 @@
 							"contest_total_participations": 234,
 							"is_hidden": false,
 							"rating": 1306,
-							"rating_change": -56,
+							"rating_change": "-56",
 							"score": 545,
 							"rank_in_contest": 49
 						}
